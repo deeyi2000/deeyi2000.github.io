@@ -1,0 +1,56 @@
+################################### SimplifiedChinese language #####################################
+languageName = "中文"
+languageCode = "zh-CN"
+contentDir = "content/zh-cn"
+weight = 10
+# copyright
+copyright = "Designed By [Themefisher](https://themefisher.com/) & Developed By [Gethugothemes](https://gethugothemes.com/)"
+
+###################################### Navigation ######################################
+# homepage section menu
+[[menu.main]]
+name = "主页"
+url = "/"
+weight = 1
+
+[[menu.main]]
+name = "产品"
+url = "products"
+weight = 2
+
+[[menu.main]]
+name = "博客"
+url = "blog"
+weight = 3
+
+[[menu.main]]
+name = "回顾"
+pre = "#"
+url = "testimonial"
+weight = 4
+
+[[menu.main]]
+name = "联系我们"
+url = "contact"
+weight = 5
+
+# footer menu
+[[menu.footer]]
+name = "博客"
+url = "blog"
+weight = 1
+
+[[menu.footer]]
+name = "联系我"
+url = "contact"
+weight = 2
+
+[[menu.footer]]
+name = "Terms & Conditions"
+url = "terms-conditions"
+weight = 3
+
+[[menu.footer]]
+name = "Privacy Policy"
+url = "privacy-policy"
+weight = 4

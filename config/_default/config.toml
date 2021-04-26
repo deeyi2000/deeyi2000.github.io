@@ -1,0 +1,15 @@
+################################### Default Configuration ############################
+baseurl = "http://examplesite.com/"
+title = "Vex测试网站"
+theme = "vex"
+defaultContentLanguage = "zh-cn"
+# post excert
+summarylength = "20"
+# google analytics
+googleAnalytics = "" # Ex: UA-123-45
+# disable language
+disableLanguages = [] # disable language from here
+
+# unsafe html
+[markup.goldmark.renderer]
+unsafe = true
