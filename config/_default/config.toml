@@ -1,5 +1,5 @@
 ################################### Default Configuration ############################
-baseurl = "http://examplesite.com/"
+baseurl = "https://deeyi2000.github.io/"
 title = "Vex测试网站"
 theme = "vex"
 defaultContentLanguage = "zh-cn"

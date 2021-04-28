@@ -20,7 +20,8 @@ sizes : ["small","medium","large"]
 
 draft: false
 ---
-
 Apple Watch
-![](/images/6a1a3bd578f94a78b6da800d40f6aabe.jpeg)
- is a line of smartwatches produced by Apple Inc. It incorporates fitness tracking and health-oriented capabilities with integration with iOS and other Apple products and services.
+
+![](./images/gj3jpbwku_200962218394239_gif)
+
+is a line of smartwatches produced by Apple Inc. It incorporates fitness tracking and health-oriented capabilities with integration with iOS and other Apple products and services.
